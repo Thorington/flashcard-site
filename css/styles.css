@@ -12,11 +12,98 @@ h1, h2, h3{
 
 
 .main {
-  margin-left: 25%;
-  max-width: 75%;
+  align-content: center;
+  width: 100%;
   text-align: left;
-  height: auto;
-  width: auto\9; 
+  height: auto; 
   position: relative;
 }
 
+#javascript-showing {
+  display: none;
+}
+
+#operators-showing {
+  display: none;
+}
+
+#variables-showing {
+  display: none;
+}
+
+#variable-conventions-showing {
+  display: none;
+}
+
+#functions-showing {
+  display: none;
+}
+
+#methods-showing {
+  display: none;
+}
+
+#arguments-showing {
+  display: none;
+}
+
+#parameters-showing {
+  display: none;
+}
+
+#return-showing {
+  display: none;
+}
+
+#chaining-methods-showing {
+  display: none;
+}
+
+#strings-showing {
+  display: none;
+}
+
+#booleans-showing {
+  display: none;
+}
+
+#undefined-showing {
+  display: none;
+}
+
+#nan-showing {
+  display: none;
+}
+
+#null-showing {
+  display: none;
+}
+
+#alert-showing {
+  display: none;
+}
+
+#comments-showing {
+  display: none;
+}
+
+#jquery-showing {
+  display: none;
+}
+
+#attributes-showing {
+  display: none;
+}
+
+
+
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
