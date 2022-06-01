@@ -1,0 +1,22 @@
+body {
+  font-family:sans-serif;
+  margin: 5%;
+  background-color: rgb(221, 228, 252);
+  padding: 2%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2, h3{
+  color: hotpink;
+}
+
+
+.main {
+  margin-left: 25%;
+  max-width: 75%;
+  text-align: left;
+  height: auto;
+  width: auto\9; 
+  position: relative;
+}
+
