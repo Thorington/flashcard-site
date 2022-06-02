@@ -10,15 +10,6 @@ h1, h2, h3{
   color: hotpink;
 }
 
-
-.main {
-  align-content: center;
-  width: 100%;
-  text-align: left;
-  height: auto; 
-  position: relative;
-}
-
 #javascript-showing {
   display: none;
 }
